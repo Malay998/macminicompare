@@ -1,0 +1,17 @@
+
+
+.template-storage {
+	font-weight: 400;
+	font-size: 14px;
+	padding-top: 2px;
+}
+@media only screen and (max-width: 734px) {
+	.template-badge .badge-value {
+		font-size: 36px;
+		line-height: 1;
+		font-weight: 600;
+		letter-spacing: -0.0001em;
+		font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue",
+			"Helvetica", "Arial", sans-serif;
+	}
+}
